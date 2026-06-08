@@ -1,2 +1,0 @@
-WAMIT_MeshTran
-pause
